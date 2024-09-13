@@ -55,3 +55,5 @@ Next we will begin to create each of the VLANs that will be used for the network
 <img src="https://i.imgur.com/iOUtUXd.png"/>
 
 The next steps will be to write the firewall rules for each of these VLANs that take into account the needs of each of the services that will be in each VLAN and the appropriate traffic to and from those services.
+
+10.0.10.0 rules
